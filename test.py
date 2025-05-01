@@ -63,6 +63,3 @@ plotly.offline.iplot({
 
 # %%
 # !date
-
-# %%
-# !id
